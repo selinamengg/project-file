@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://myweb.scu.edu.tw/~09170110/index.html</loc>
+  <lastmod>2022-03-26T16:29:31+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://myweb.scu.edu.tw/~09170110/examples.html</loc>
+  <lastmod>2022-03-26T16:29:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://myweb.scu.edu.tw/~09170110/page.html</loc>
+  <lastmod>2022-03-26T16:26:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://myweb.scu.edu.tw/~09170110/another_page.html</loc>
+  <lastmod>2022-03-26T16:29:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://myweb.scu.edu.tw/~09170110/contact.html</loc>
+  <lastmod>2022-03-26T16:29:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://myweb.scu.edu.tw/~09170110/idk.html?utm_source=%E8%87%AA%E5%AE%B6%E5%AE%98%E7%B6%B2&amp;utm_medium=%E6%A9%AB%E5%B9%85%E5%BB%A3%E5%91%8Abanner&amp;utm_campaign=%E6%B2%92%E7%94%A8%E7%9A%84%E9%A0%81%E9%9D%A2&amp;utm_content=for+fun</loc>
+  <lastmod>2022-03-26T16:29:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
