@@ -1,7 +1,7 @@
 # 09170110巨資二A 孟家瑜
 以上為大一到大二在課程中的實作檔案<br/>
 內容如下(依照檔案順序介紹)：<br/>
--<strong>Night_sky</strong>資料夾為網頁製作搭配GA功能並且優化網站加入sitemap, robots.txt等等<br/>
+-<strong>Night_sky</strong>資料夾為網頁製作搭配GA功能並且優化網站加入sitemap, robots.txt等等(SEO)<br/>
 -<strong>0506ipynb檔</strong>為關於影像調整的上課練習<br/>
 -<strong>0510ipynb檔</strong>為製作qr code 合成類似名片的影像<br/>
 -<strong>0513ipynb檔</strong>為文字雲之練習(jieba,wordcloud...)<br/>
